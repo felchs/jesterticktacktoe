@@ -1,0 +1,1 @@
+diretorio para resources de teste
