@@ -72,7 +72,7 @@ public class TicTacToeAutomaticPlayerTask implements Task {
 		final TicTacToeTurn ticTacToeTurn = (TicTacToeTurn) ticTacToeGame.getCurrentTurnNode();
 		final int spaceID = ticTacToeGame.getId();
 		
-		final int screenPos = ticTacToeGame.getCurrentScreenPos().getPositionIdx();
+		//final int screenPos = ticTacToeGame.getCurrentScreenPos().getPositionIdx();
 		byte[] table = ticTacToeTurn.getTableCopy();
 		
 
