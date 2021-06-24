@@ -1,1 +1,1 @@
-diretorio para resources
+diretorio para resources .
